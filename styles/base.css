@@ -1,0 +1,15 @@
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Hiragino Sans', 'Noto Sans CJK JP', sans-serif;
+    color: #333; /* 文字色を少し柔らかい黒に */
+    background-color: #f4f4f4; /* 背景を薄いグレーに */
+}
+
+main {
+    /* 中央寄せのデザインにするための設定 */
+    max-width: 800px; /* 最大幅を指定 */
+    margin: 40px auto; /* 上下に40px、左右は自動で中央寄せ */
+    padding: 20px;
+    background-color: #fff; /* コンテンツの背景は白に */
+    border-radius: 8px; /* 角を少し丸くする */
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1); /* 薄い影を付ける */
+}

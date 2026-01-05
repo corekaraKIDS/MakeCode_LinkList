@@ -1,0 +1,48 @@
+table {
+    margin: 0 auto;
+    width: 100%; /* 親要素の幅いっぱいに広げる */
+    border-collapse: collapse; /* 隣接するセルの線を1本にまとめる */
+}
+
+th, td {
+    border: 1px solid #ddd; /* セルに薄いグレーの線を引く */
+    padding: 8px; /* セル内の余白を確保 */
+    text-align: left; /* 文字を左揃えにする */
+}
+
+.tdCenter {
+    text-align: center; /* 中央揃えにする */
+}
+
+th {
+    background-color: #f8f8f8; /* ヘッダー行の背景を少し色付け */
+    font-weight: bold; /* 文字を太字に */
+}
+
+a {
+    text-decoration: underline;
+    color: #007bff;
+    transition: opacity 0.1s;
+}
+
+a:hover {
+    opacity: 0.7;
+}
+
+.mcBtn {
+    display: inline-block; /* aタグでも余白や幅が効くようにする */
+    padding: 8px 16px; /* ボタンの内側の余白（上下8px, 左右16px） */
+    font-weight: bold;
+    background-color: #535353; /* 背景色 */
+    color: #fff; /* 文字色を白に */
+    text-decoration: none; /* リンクの下線を消す */
+    border-radius: 9999px; /* 完全に丸くする */
+}
+
+button:hover {
+    opacity: 0.7;
+}
+
+.jumpBtn {
+    font-weight: bolder;
+}
