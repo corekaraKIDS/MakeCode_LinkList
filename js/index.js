@@ -4,137 +4,137 @@ const materials_chuukyuu = [
     id: "MC-01",
     name: "対戦（たいせん）ゲーム",
     keywords: "",
-    link: "#",
+    link: "https://makecode.com/_6jaT0ThAT42y",
     issueFound: false,
-    lastUpdated: "2025-09-01"
+    lastUpdated: "2026-01-05"
   },
   {
     id: "MC-02",
     name: "カスタム武器",
     keywords: "",
-    link: "#",
+    link: "https://makecode.com/_7fqe935spEuR",
     issueFound: false,
-    lastUpdated: "2025-09-01"
+    lastUpdated: "2026-01-05"
   },
   {
     id: "MC-03",
     name: "カラフルタワー",
     keywords: "",
-    link: "#",
+    link: "https://makecode.com/_KTcKwjFVMTzD",
     issueFound: false,
-    lastUpdated: "2025-09-01"
+    lastUpdated: "2026-01-05"
   },
   {
     id: "MC-04",
     name: "ピラミッド",
     keywords: "",
-    link: "#",
+    link: "https://makecode.com/_hqfdX1g0TYko",
     issueFound: false,
-    lastUpdated: "2025-09-01"
+    lastUpdated: "2026-01-05"
   },
   {
     id: "MC-05",
     name: "ビル",
     keywords: "",
-    link: "#",
+    link: "https://makecode.com/_cyb7cvibz0g5",
     issueFound: false,
-    lastUpdated: "2025-09-01"
+    lastUpdated: "2026-01-05"
   },
   {
     id: "MC-06",
     name: "ブロックくずし",
     keywords: "",
-    link: "#",
+    link: "https://makecode.com/_MARPmthFfEmA",
     issueFound: false,
-    lastUpdated: "2025-09-01"
+    lastUpdated: "2026-01-05"
   },
   {
     id: "MC-07",
     name: "クイズゲーム",
     keywords: "",
-    link: "#",
+    link: "https://makecode.com/_cr9dfq5EggjT",
     issueFound: false,
-    lastUpdated: "2025-09-01"
+    lastUpdated: "2026-01-05"
   },
   {
     id: "MC-08",
     name: "モンスターバトル",
     keywords: "",
     link: "#",
-    issueFound: false,
-    lastUpdated: "2025-09-01"
+    issueFound: true,
+    lastUpdated: "xxxx-xx-xx"
   },
   {
     id: "MC-09",
     name: "だるまさん",
     keywords: "",
-    link: "#",
+    link: "https://makecode.com/_LWfJekDYY9Up",
     issueFound: false,
-    lastUpdated: "2025-09-01"
+    lastUpdated: "2026-01-05"
   },
   {
     id: "MC-10",
     name: "たからさがし",
     keywords: "",
-    link: "#",
+    link: "https://makecode.com/_A1uFs4e8q9uD",
     issueFound: false,
-    lastUpdated: "2025-09-01"
+    lastUpdated: "2026-01-05"
   },
   {
     id: "MC-11",
     name: "パズルゲーム",
     keywords: "",
-    link: "#",
+    link: "https://makecode.com/_aefAcq9sv0Yz",
     issueFound: false,
-    lastUpdated: "2025-09-01"
+    lastUpdated: "2026-01-05"
   },
   {
     id: "MC-12",
     name: "水族館",
     keywords: "",
-    link: "#",
+    link: "https://makecode.com/_0DeHgwia72Po",
     issueFound: false,
-    lastUpdated: "2025-09-01"
+    lastUpdated: "2026-01-05"
   },
   {
     id: "MC-13",
     name: "発掘ゲーム",
     keywords: "",
-    link: "#",
+    link: "https://makecode.com/_gVkMbViP7EP2",
     issueFound: false,
-    lastUpdated: "2025-09-01"
+    lastUpdated: "2026-01-05"
   },
   {
     id: "MC-14",
     name: "まとあてゲーム",
     keywords: "",
-    link: "#",
+    link: "https://makecode.com/_XH0e6cK4a5q0",
     issueFound: false,
-    lastUpdated: "2025-09-01"
+    lastUpdated: "2026-01-05"
   },
   {
     id: "MC-15",
     name: "陣取りゲーム",
     keywords: "",
-    link: "#",
+    link: "https://makecode.com/_D00K2V3dtYxq",
     issueFound: false,
-    lastUpdated: "2025-09-01"
+    lastUpdated: "2026-01-05"
   },
   {
     id: "MC-16",
     name: "タイムアタック",
     keywords: "",
-    link: "#",
+    link: "https://makecode.com/_PrjdJcbH7E4C",
     issueFound: false,
-    lastUpdated: "2025-09-01"
+    lastUpdated: "2026-01-05"
   },
   {
     id: "MC-17",
     name: "リアルタイムアスレ",
     keywords: "",
-    link: "#",
+    link: "https://makecode.com/_CAVCamT27eRz",
     issueFound: false,
-    lastUpdated: "2025-09-01"
+    lastUpdated: "2026-01-05"
   }
 ];
 const materials_joukyuu = [
@@ -142,113 +142,113 @@ const materials_joukyuu = [
     id: "PY-01",
     name: "脱出ゲーム",
     keywords: "",
-    link: "#",
+    link: "https://makecode.com/_Y9g9LEUYuiei",
     issueFound: false,
-    lastUpdated: "2025-09-01"
+    lastUpdated: "2026-01-05"
   },
   {
     id: "PY-02",
     name: "かいだんダッシュ",
     keywords: "",
-    link: "#",
+    link: "https://makecode.com/_huhhLw5Dcdvv",
     issueFound: false,
-    lastUpdated: "2025-09-01"
+    lastUpdated: "2026-01-05"
   },
   {
     id: "PY-03",
     name: "ミニアスレチック",
     keywords: "",
-    link: "#",
+    link: "https://makecode.com/_Ad5DqYCYKYJb",
     issueFound: false,
-    lastUpdated: "2025-09-01"
+    lastUpdated: "2026-01-05"
   },
   {
     id: "PY-04",
     name: "サバイバルゲーム",
     keywords: "",
-    link: "#",
+    link: "https://makecode.com/_aUVar1Pqa9wp",
     issueFound: false,
-    lastUpdated: "2025-09-01"
+    lastUpdated: "2026-01-05"
   },
   {
     id: "PY-05",
     name: "脱獄ゲーム",
     keywords: "",
-    link: "#",
+    link: "https://makecode.com/_eTjPj0LeqDJ1",
     issueFound: false,
-    lastUpdated: "2025-09-01"
+    lastUpdated: "2026-01-05"
   },
   {
     id: "PY-06",
     name: "ランダムタイムアタック",
     keywords: "",
-    link: "#",
+    link: "https://makecode.com/_0jmYixcr0Hre",
     issueFound: false,
-    lastUpdated: "2025-09-01"
+    lastUpdated: "2026-01-05"
   },
   {
     id: "PY-07",
     name: "タイムレース",
     keywords: "",
-    link: "#",
+    link: "https://makecode.com/_6tvfYKak0XbY",
     issueFound: false,
-    lastUpdated: "2025-09-01"
+    lastUpdated: "2026-01-05"
   },
   {
     id: "PY-08",
     name: "タワーディフェンス",
     keywords: "",
-    link: "#",
+    link: "https://makecode.com/_VkA3Dxi3WRTA",
     issueFound: false,
-    lastUpdated: "2025-09-01"
+    lastUpdated: "2026-01-05"
   },
   {
     id: "PY-09",
     name: "色当てゲーム",
     keywords: "",
-    link: "#",
+    link: "https://makecode.com/_4aremKeusDC6",
     issueFound: false,
-    lastUpdated: "2025-09-01"
+    lastUpdated: "2026-01-05"
   },
   {
     id: "PY-10",
     name: "マグマアスレチック",
     keywords: "",
-    link: "#",
+    link: "https://makecode.com/_bV42Tc3Y1Ffc",
     issueFound: false,
-    lastUpdated: "2025-09-01"
+    lastUpdated: "2026-01-05"
   },
   {
     id: "PY-11",
     name: "めいろ",
     keywords: "",
-    link: "#",
+    link: "https://makecode.com/_cXHYM64p3eYX",
     issueFound: false,
-    lastUpdated: "2025-09-01"
+    lastUpdated: "2026-01-05"
   },
   {
     id: "PY-12",
     name: "モンスターラッシュ",
     keywords: "",
-    link: "#",
+    link: "https://makecode.com/_MiR8RfAe5M7p",
     issueFound: false,
-    lastUpdated: "2025-09-01"
+    lastUpdated: "2026-01-05"
   },
   {
     id: "PY-13",
     name: "ブロック集め",
     keywords: "",
-    link: "#",
+    link: "https://makecode.com/_Y5C7tLV089te",
     issueFound: false,
-    lastUpdated: "2025-09-01"
+    lastUpdated: "2026-01-05"
   },
   {
     id: "PY-14",
     name: "なわとび",
     keywords: "",
-    link: "#",
+    link: "https://makecode.com/_MJWfW3JcWD40",
     issueFound: false,
-    lastUpdated: "2025-09-01"
+    lastUpdated: "2026-01-05"
   }
 ];
 
