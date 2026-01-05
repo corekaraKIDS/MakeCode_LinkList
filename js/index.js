@@ -61,8 +61,8 @@ const materials_chuukyuu = [
     name: "モンスターバトル",
     keywords: "",
     link: "https://makecode.com/_2C1bbL24x58C",
-    issueFound: true,
-    lastUpdated: "xxxx-xx-xx"
+    issueFound: false,
+    lastUpdated: "2026-01-05"
   },
   {
     id: "MC-09",
@@ -299,4 +299,5 @@ function createMaterialsTableForId(materials, tableId) {
     container.innerHTML = "";
     container.appendChild(table);
 }
+
 
