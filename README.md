@@ -8,10 +8,12 @@ by まいく（櫛谷岳志）　2025年9月11日
 - `js/`: JavaScriptファイル格納フォルダ：教材データと表の生成
 
 ## 情報更新手順
-`js/index.js` の先頭にある `materials_chuukyuu` と `materials_joukyuu` の **JSON 配列**を編集して、中級・上級教材の情報を書き込んでください。
-内容はページの表に自動反映されます。
-\
-なお、jsはLiveViewerなどを使わなくても動きます。
+- このプロジェクトを手元にpullする。
+  - corekaraKIDS（これからKIDSの生徒用GitHubアカウント）に、collaboratorとして追加してもらう。
+  - Gmailに届くinvitationをacceptする。
+- `js/index.js` の先頭にある `materials_chuukyuu` と `materials_joukyuu` の **JSON 配列**を編集して、中級・上級教材の情報を書き込む。
+  - 内容はページの表に自動反映されます。
+  - jsはLiveViewerなどを使わなくても動きます。
 
 ### 例
 ```js
