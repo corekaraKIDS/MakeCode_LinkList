@@ -116,9 +116,9 @@ const materials_chuukyuu = [
     id: "MC-15",
     name: "陣取りゲーム",
     keywords: "",
-    link: "https://makecode.com/_D00K2V3dtYxq",
+    link: "https://makecode.com/_Mf3HyXiwwEKo",
     issueFound: false,
-    lastUpdated: "2026-01-05"
+    lastUpdated: "2026-02-10"
   },
   {
     id: "MC-16",
