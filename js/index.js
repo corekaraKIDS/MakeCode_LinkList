@@ -182,7 +182,7 @@ const materials_joukyuu = [
     id: "PY-06",
     name: "ランダムタイムアタック",
     keywords: "",
-    link: "https://makecode.com/_dh8Mji1WWgac",
+    link: "https://makecode.com/_hkhAW4Mg5Fqz",
     issueFound: false,
     lastUpdated: "2026-01-20"
   },
