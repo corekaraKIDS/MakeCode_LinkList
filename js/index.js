@@ -198,9 +198,9 @@ const materials_joukyuu = [
     id: "PY-08",
     name: "タワーディフェンス",
     keywords: "",
-    link: "https://makecode.com/_VkA3Dxi3WRTA",
+    link: "https://makecode.com/_Vw8HAATFwCP7",
     issueFound: false,
-    lastUpdated: "2026-01-05"
+    lastUpdated: "2026-05-11"
   },
   {
     id: "PY-09",
