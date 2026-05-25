@@ -214,9 +214,9 @@ const materials_joukyuu = [
     id: "PY-10",
     name: "マグマアスレチック",
     keywords: "",
-    link: "https://makecode.com/_bV42Tc3Y1Ffc",
+    link: "https://makecode.com/_eLk8tf042deL",
     issueFound: false,
-    lastUpdated: "2026-01-05"
+    lastUpdated: "2026-05-25"
   },
   {
     id: "PY-11",
