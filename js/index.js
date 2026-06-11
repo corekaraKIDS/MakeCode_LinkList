@@ -214,9 +214,9 @@ const materials_joukyuu = [
     id: "PY-10",
     name: "マグマアスレチック",
     keywords: "",
-    link: "https://makecode.com/_eLk8tf042deL",
+    link: "https://makecode.com/_6kXYxUAmsLyY",
     issueFound: false,
-    lastUpdated: "2026-05-25"
+    lastUpdated: "2026-06-11"
   },
   {
     id: "PY-11",
@@ -285,7 +285,14 @@ function createMaterialsTableForId(materials, tableId) {
             <td>${material.id}</td>
             <td>${material.name}</td>
             <td class="tdCenter">
-                <a class="mcBtn" href="${material.link}">MakeCode</a>
+                <a 
+                  class="mcBtn" 
+                  href="${material.link}"
+                  target="_blank" 
+                  rel="noopener noreferrer"
+                >
+                  MakeCode
+                </a>
             </td>
             <td class="tdCenter" style="font-size: 1.5em;">
                 ${material.issueFound ? "⚠️" : ""}
