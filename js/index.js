@@ -238,9 +238,9 @@ const materials_joukyuu = [
     id: "PY-13",
     name: "ブロック集め",
     keywords: "",
-    link: "https://makecode.com/_Y5C7tLV089te",
+    link: "https://makecode.com/_RvCT2cU4TTqz",
     issueFound: false,
-    lastUpdated: "2026-01-05"
+    lastUpdated: "2026-09-10"
   },
   {
     id: "PY-14",
