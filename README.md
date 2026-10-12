@@ -15,7 +15,7 @@ by まいく　2026年10月12日
   - プログラムのリンクは、[MakeCodeエディタ](https://minecraft.makecode.com/)で**共有マークを押して**取得できます。**エディタのリンクは使えません。**
   - 内容はページの表に自動反映されます。
   - jsはLiveViewerなどを使わなくても動きます。
-- プッシュ・マージしてページに反映させる（https://corekarakids.github.io/MakeCode_LinkList/）
+- プッシュ・マージして [ページ](https://corekarakids.github.io/MakeCode_LinkList/) に反映させる
 
 ### 例
 ```js
