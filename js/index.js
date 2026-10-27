@@ -240,7 +240,7 @@ const materials_joukyuu = [
     keywords: "",
     link: "https://makecode.com/_aaALzC0WP7bF",
     issueFound: false,
-    lastUpdated: "2026-09-10"
+    lastUpdated: "2026-10-27"
   },
   {
     id: "PY-14",
